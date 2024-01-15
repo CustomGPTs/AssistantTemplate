@@ -1,0 +1,49 @@
+# Example Knowledge File
+
+## Apple
+- **Description:** Apples are crisp and juicy fruits with a sweet and slightly tart flavor. They come in various colors, including red, green, and yellow.
+- **Nutritional Info:**
+  - Calories: 95
+  - Carbohydrates: 25g
+  - Fiber: 4g
+  - Vitamin C: 14%
+  - Vitamin A: 1%
+  - Potassium: 195mg
+- **Best Season:** Fall
+- **Common Uses:**
+  - Eating fresh
+  - Making apple pies
+  - Apple sauce
+  - Cider production
+
+## Banana
+- **Description:** Bananas are elongated, yellow fruits with a creamy texture and a sweet taste. They are a good source of potassium and vitamins.
+- **Nutritional Info:**
+  - Calories: 105
+  - Carbohydrates: 27g
+  - Fiber: 3g
+  - Vitamin C: 17%
+  - Vitamin B6: 25%
+  - Potassium: 422mg
+- **Best Season:** Year-round
+- **Common Uses:**
+  - Snacking
+  - Smoothies
+  - Banana bread
+  - Adding to cereal
+
+## Strawberry
+- **Description:** Strawberries are small, red, and heart-shaped fruits with a sweet and juicy flavor. They are a popular berry in desserts.
+- **Nutritional Info:**
+  - Calories: 50
+  - Carbohydrates: 11g
+  - Fiber: 3g
+  - Vitamin C: 98%
+  - Vitamin A: 1%
+  - Folate: 4%
+- **Best Season:** Spring
+- **Common Uses:**
+  - Eating fresh
+  - Strawberry jam
+  - Shortcake
+  - Smoothie ingredient
